@@ -10,9 +10,12 @@
 </head>
 <body>
 
+<?php
+$variable="dhanushka.lk";
+?>
 
 <div class="container">
-
+    <a href="home.php?domain_id='<?php echo $variable;?>'"></a>
 </div>
 
 
