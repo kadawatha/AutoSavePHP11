@@ -11,8 +11,13 @@
 <body>
 
 
+<?php
+$url="dhanushka.lk";
+?>
+
+
 <div class="container">
-    <a href="home.php?domain_id='Dhanushka.lk'">Go to home page</a>
+    <a href="home.php?category=<?php echo $url;?>">Go to home page</a>
 </div>
 
 

@@ -1,4 +1,15 @@
 
+
+<?php
+$the_post_id="";
+if (isset($_GET['category'])){
+    $the_post_id = $_GET['domain_id'];
+}
+
+?>
+
+
+
 <html>
 <head>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
