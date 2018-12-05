@@ -10,12 +10,9 @@
 </head>
 <body>
 
-<?php
-$variable="dhanushka.lk";
-?>
 
 <div class="container">
-    <a href="home.php?domain_id='<?php echo $variable;?>'">Go to home page</a>
+    <a href="home.php?domain_id='Dhanushka.lk'">Go to home page</a>
 </div>
 
 
