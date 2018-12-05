@@ -3,7 +3,7 @@
 <?php
 $the_post_id="";
 if (isset($_GET['category'])){
-    $the_post_id = $_GET['domain_id'];
+    $the_post_id = $_GET['category'];
 }
 
 ?>
