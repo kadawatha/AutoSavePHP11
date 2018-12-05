@@ -15,7 +15,7 @@ $variable="dhanushka.lk";
 ?>
 
 <div class="container">
-    <a href="home.php?domain_id='<?php echo $variable;?>'"></a>
+    <a href="home.php?domain_id='<?php echo $variable;?>'">Go to home page</a>
 </div>
 
 
